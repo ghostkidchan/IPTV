@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="Taiwan" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="Taiwan" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="Taiwan" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" epg-url="https://epg.112114.xyz/pp.xml",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="Taiwan" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="Taiwan" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="Taiwan" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="Taiwan" tvg-name="緯來體育" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="Taiwan" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" epg-url="https://epg.112114.xyz/pp.xml",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="Taiwan" tvg-name="MoMo综合" tvg-logo="https://epg.112114.xyz/logo/MoMo综合.png" epg-url="https://epg.112114.xyz/pp.xml",MoMo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="Taiwan" tvg-name="ELEVEN体育1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育1.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="Taiwan" tvg-name="ELEVEN体育2" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育2.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="Taiwan" tvg-name="ELEVEN体育3" tvg-logo="https://epg.112114.xyz/logo/ELEVEN体育3.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN体育3
+rtmp://f13h.mine.nu/sat/tv751
+#EXTINF:-1 group-title="Taiwan" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" epg-url="https://epg.112114.xyz/pp.xml",纬来体育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="Taiwan" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" epg-url="https://epg.112114.xyz/pp.xml",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="Taiwan" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" epg-url="https://epg.112114.xyz/pp.xml",东森超视
+rtmp://f13h.mine.nu/sat/tv331
